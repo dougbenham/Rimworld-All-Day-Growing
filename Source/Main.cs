@@ -20,7 +20,8 @@ namespace AllDayGrowing
         [HarmonyPrefix]
         public static bool RecalculateAllowed(ref CompSchedule __instance)
         {
-            if (__instance.parent.def.defName == "SunLamp")
+            var comp = __instance.parent.GetComp<CompGlower>();
+            if (comp != null && comp.Props.overlightRadius > 0)
             {
                 __instance.Allowed = true;
                 return false;
