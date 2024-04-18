@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A90DE114-75FD-4A2E-A77D-5E5E1E7035EB}") = "All Day Growing", "All Day Growing.csproj", "{A90DE114-75FD-4A2E-A77D-5E5E1E7035EB}"
+Project("{A90DE114-75FD-4A2E-A77D-5E5E1E7035EB}") = "AllDayGrowing", "AllDayGrowing.csproj", "{A90DE114-75FD-4A2E-A77D-5E5E1E7035EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

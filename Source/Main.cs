@@ -9,7 +9,7 @@ namespace AllDayGrowing
     {
         static HarmonyPatches()
         {
-            var harmony = new Harmony("doug.AllDayGrowing");
+            var harmony = new Harmony("doug.alldaygrowing");
             harmony.PatchAll();
         }
     }

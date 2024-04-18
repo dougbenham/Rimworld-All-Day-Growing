@@ -2,6 +2,7 @@
 <ModMetaData>
 	<name>All Day Growing</name>
 	<author>Doug</author>
+	<packageId>doug.alldaygrowing</packageId>
 	<description>Allows plants to grow all day and also modifies sun lamps to work all day.</description>
 	<supportedVersions>
 		<li>1.5</li>
@@ -13,5 +14,4 @@
             <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
         </li>
     </modDependencies>
-	<packageId>Doug.AllDayGrowing</packageId>
 </ModMetaData>
